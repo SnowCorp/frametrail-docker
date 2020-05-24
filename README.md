@@ -1,6 +1,6 @@
 
 # About
-Dockerfile for FrameTrail. Use it as you wish.
+Dockerfile for FrameTrail. Use it as you wish. 
 
 ## Where the project is located
 
